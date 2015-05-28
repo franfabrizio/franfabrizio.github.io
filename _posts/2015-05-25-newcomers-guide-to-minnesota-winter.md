@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Newcomer's Guide to Surviving Minnesota Winter
 date: 2015-05-25 23:30:00
 categories: mnlife
