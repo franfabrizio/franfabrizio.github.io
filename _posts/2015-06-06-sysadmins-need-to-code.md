@@ -32,4 +32,4 @@ We made two successful hires, but during the process I was disheartened by the n
 
 These skills will give you a competitive advantage in the marketplace, especially if you want to support software developers.
 
-[L1]http://tech.popdata.org/our-it-hiring-process-how-and-why/
+[L1]: http://tech.popdata.org/our-it-hiring-process-how-and-why/
