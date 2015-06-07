@@ -31,7 +31,7 @@ This recipe assumes you have a working Ruby environment and git command.  If you
 5. Go to Github, and in your account create the repository called `username.github.io`
 6. Back on your local machine, do `git remote add origin https://github.com/_username_/_username_.github.io.git` to add the Github Pages area as a remote repo for your Jekyll site (replacing \_username\_ with your username, of course.)
 6. Edit \_config.yml to add `baseurl: ""` and `url: "http://\_username\_.github.io` entries. The internet might tell you to put something like "/username.github.io" in the baseurl key - the internet is _wrong_.  Don't give any value to baseurl unless you're specifically publishing your Jekyll site in a subdirectory of your Github User Page site.  Bad advice on this cost me a lot of time.
-7. `git commit -a` to add all files and make your initial commit of the site.
+7. `git add .` and `git commit -a` to add all files and make your initial commit of the site.
 8. `git push` to upload the site to Github.
 9. http://\_username\_.github.io/ should now show your site.
 
