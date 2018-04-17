@@ -8,6 +8,9 @@ url: "http://franfabrizio.github.io" # the base hostname & protocol for your sit
 twitter_username: franfabrizio
 github_username:  franfabrizio
 
+#theme: jekyll-theme-basically-basic
+remote_theme: mmistakes/jekyll-theme-basically-basic
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
