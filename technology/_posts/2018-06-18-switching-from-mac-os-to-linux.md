@@ -51,3 +51,4 @@ Here are the software things I depend on today, and which will need Linux versio
 * Microsoft Office.
 * Spotify.
 * Atom.
+* Terminal.
